@@ -1,2 +1,2 @@
 # Java3311IntroToJava-without-OO-concepts-in-place-practice-UnoptimizedCode
-Here is my code I've written for class assignments. Most of it is quickly written and not optimized or designed for error handling. I will be using this code to practice optimizing code and writing code to handle errors.  
+Here is my code I've written for class assignments. Most of it is quickly written and not optimized or designed for error handling. I will be using this code to practice optimizing code, writing code to handle errors, and use object Oriented concpets to improve the usability of the code. 3311 was intro to Java for me at UTD.  
